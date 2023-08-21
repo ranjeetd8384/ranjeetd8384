@@ -1,5 +1,5 @@
 ### Hi there 👋
-# [Ranjeet Deshmukh](www.linkedin.com/in/ranjeet-deshmukh-865935215)
+# [Ranjeet Deshmukh](https:www.linkedin.com/in/ranjeet-deshmukh-865935215)
 ### Mechanical Engineer 
 ### Minor degree in Computer Science Engineering
 
