@@ -1,5 +1,5 @@
 ### Hi there 👋
-# [Ranjeet Deshmukh](www.linkedin.com/in/ranjeet-deshmukh-865935215)
+# [Ranjeet Deshmukh](https://www.linkedin.com/in/ranjeet-deshmukh-865935215/)
 ### ⚙️ Mechanical Engineer 
 ### 💻 Minor degree in Computer Science Engineering
 
@@ -32,6 +32,7 @@
   
 #### 🗨️ How to reach me
 📧 deshmukhranjeet831@gmail.com
+
 
 <!--
 **ranjeetd8384/ranjeetd8384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
