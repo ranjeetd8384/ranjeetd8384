@@ -31,7 +31,7 @@
 + Programming for Everybody(Getting started with **Python**)
   
 #### 🗨️ How to reach me
-+ 📧 deshmukhranjeet831@gmail.com
++ [Mail ID](deshmukhranjeet831@gmail.com)
 + [LinkedIn](https://www.linkedin.com/in/ranjeet-deshmukh-865935215/)
    
 
