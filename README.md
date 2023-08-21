@@ -1,28 +1,30 @@
 ### Hi there 👋
-# Ranjeet Deshmukh
+# [Ranjeet Deshmukh](www.linkedin.com/in/ranjeet-deshmukh-865935215)
 ### Mechanical Engineer 
 ### Minor degree in Computer Science Engineering
+
+
 *I like coding*
 
 <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/92310536/original/b2e1958144f1c6492abd2863e269ca9a5f4645ac/develop-applications-in-java-c-cpp-c-sharp-python.png" alt="Alt Text" width="300">
 
-#### Languages
+#### 👨🏼‍💻Languages
 - C
 - C++
 - JAVA
 - Python
   
-#### Projects
+#### 👷🏻 Projects
 1. Bidirectional Visitor Counter
 2. CAE analysis of connecting rod
 3. Design of vehicle chasis
 4. Warm incremental forming of magnesium alloy to study formability with variable wall angle test
 
-#### Experience
+#### 💼 Experience
 + Virtual internship at **Altair**
 + Member at team **Optimizer** club **RIT**
 
-#### Certifications
+#### 🏅 Certifications
 + Introduction to **HTML5**
 + Programming for Everybody(Getting started with **Python**)
 
