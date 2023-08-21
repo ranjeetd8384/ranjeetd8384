@@ -1,18 +1,20 @@
 ### Hi there 👋
 # [Ranjeet Deshmukh](https:www.linkedin.com/in/ranjeet-deshmukh-865935215)
-### Mechanical Engineer 
-### Minor degree in Computer Science Engineering
+### ⚙️ Mechanical Engineer 
+### 💻 Minor degree in Computer Science Engineering
 
 
-*I like coding*
+*"I like coding!"*
 
 <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/92310536/original/b2e1958144f1c6492abd2863e269ca9a5f4645ac/develop-applications-in-java-c-cpp-c-sharp-python.png" alt="Alt Text" width="300">
 
-#### 👨🏼‍💻Languages
+#### 👨🏼‍💻Technical skills
 - C
 - C++
 - JAVA
 - Python
+- HTML
+- CSS
   
 #### 👷🏻 Projects
 1. Bidirectional Visitor Counter
