@@ -29,6 +29,9 @@
 #### 🏅 Certifications
 + Introduction to **HTML5**
 + Programming for Everybody(Getting started with **Python**)
+  
+#### 🗨️ How to reach me
+📧 deshmukhranjeet831@gmail.com
 
 <!--
 **ranjeetd8384/ranjeetd8384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
